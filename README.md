@@ -10,7 +10,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-
+Modificações feitas no navegador e não estão no desktop
 
 ## Professor
 
